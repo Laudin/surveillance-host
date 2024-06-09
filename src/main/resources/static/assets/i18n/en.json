@@ -1,0 +1,72 @@
+{
+    "nav": {
+        "classes": "Classes",
+        "modality": "Modality",
+        "contact": "Contact",
+        "about": "About Us",
+        "button": "Appointment"
+    },
+    "banner": {
+        "welcome": "Welcome to",
+        "subtitle": "Improving your future",
+        "body": "At America School, we are committed to providing a comprehensive and engaging learning experience for our students. Our faculty is dedicated to helping our students reach their full potential through academic standards and personalized instruction.",
+        "button": "GET STARTED"
+    },
+    "classes": {
+        "title": "CLASSES",
+        "subtitle": "For all ages",
+        "kids": "Learning activities to start developing their understanding and language skills. With interactive books and games to make learning an exciting experience. Our approach ensures that each child enjoys the learning process while developing fundamental language skills.",
+        "teens": "Development of language skills, as well as enrichment of vocabulary and cultural understanding. All the necessary tools to actively participate in fluent conversations in the language.",
+        "adults": "Innovative approach to language learning in our Adult Language Course. Our dynamic methodology combines learning exercises designed to develop both comprehension and mastery of the new language."
+    },
+    "modality": {
+        "title": "MODALITIES",
+        "subtitle": "For your convenience",
+        "classes": {
+            "title": "In Class",
+            "description": "Embark on a linguistic adventure with our immersive class dedicated to teaching. This course offers a comprehensive approach to language instruction. Whether you're a seasoned educator or a newcomer to the field, join us as we navigate the intersection of language and culture."
+        },
+        "online": {
+            "title": "Online",
+            "description": "Step into the virtual classroom and explore the dynamic world of teaching with our online course. Through interactive modules, live sessions, and multimedia resources, participants will gain insight into the unique challenges and opportunities of learning. Join our virtual community of educators and embark on a journey of discovery."
+        }
+    },
+    "contact": {
+        "title": "CONTACT US",
+        "form": {
+            "title": "Send us a message",
+            "name": "Name and lastname",
+            "phone": "Phone number",
+            "courses": {
+                "info": "Courses information"
+            },
+            "message": "Message",
+            "send": "SEND"
+        },
+        "map": {
+            "title": "Where to find us"
+        }
+    },
+    "about": {
+        "title": "ABOUT US",
+        "subtitle": "Our objective",
+        "description": "At our institute, we offer engaging classes and a supportive environment to help students become confident speakers. Our experienced instructors use innovative methods to teach all language skills. Whether in-person or online, we provide resources and opportunities for practice to ensure student success.",
+        "qualities": {
+            "first": {
+                "title": "Comprehensive",
+                "description": "A top institute provides a thorough curriculum covering grammar, vocabulary, speaking, listening, reading, and writing. It's well-structured, flexible, and adapted to learners of all proficiency levels."
+            },
+            "second": {
+                "title": "Experience",
+                "description": "A great institute has skilled instructors proficient in the language and teaching techniques. They're passionate about helping students reach their language goals."
+            },
+            "third": {
+                "title": "Supportive",
+                "description": "A supportive environment is crucial for language learning, with resources like multimedia and personal assistance. Personalized attention, feedback, and practice opportunities should be readily available to enhance learning."
+            }
+        }
+    },
+    "footer": {
+        "copyright": "© 2024 America Institute Copyright - All rights reserved."
+    }
+}

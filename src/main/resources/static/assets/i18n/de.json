@@ -1,0 +1,72 @@
+{
+    "nav": {
+        "classes": "KURSE",
+        "modality": "MODALITÄTEN",
+        "contact": "KONTAKTIEREN SIE UNS",
+        "about": "ÜBER UNS",
+        "button": "Termin"
+    },
+    "banner": {
+        "welcome": "Willkommen bei",
+        "subtitle": "Verbessern Sie Ihre Zukunft",
+        "body": "An der America School sind wir bestrebt, unseren Schülern ein umfassendes und ansprechendes Lernerlebnis zu bieten. Unser Lehrkörper ist darauf spezialisiert, unseren Schülern durch akademische Standards und individuelle Anleitung ihr volles Potenzial zu entfalten.",
+        "button": "LOSLEGEN"
+    },
+    "classes": {
+        "title": "KURSE",
+        "subtitle": "Für alle Altersgruppen",
+        "kids": "Lernaktivitäten, um ihr Verständnis und ihre Sprachkenntnisse zu entwickeln. Mit interaktiven Büchern und Spielen, um das Lernen zu einem aufregenden Erlebnis zu machen. Unser Ansatz stellt sicher, dass jedes Kind den Lernprozess genießt, während es grundlegende Sprachkenntnisse entwickelt.",
+        "teens": "Entwicklung von Sprachkenntnissen sowie Bereicherung des Wortschatzes und kulturelles Verständnis. Alle notwendigen Werkzeuge, um aktiv an fließenden Gesprächen in der Sprache teilzunehmen.",
+        "adults": "Innovativer Ansatz zum Sprachenlernen in unserem Kurs für Erwachsene. Unsere dynamische Methodik kombiniert Lernübungen, die darauf abzielen, sowohl das Verständnis als auch die Beherrschung der neuen Sprache zu entwickeln."
+    },
+    "modality": {
+        "title": "MODALITÄTEN",
+        "subtitle": "Zu Ihrer Bequemlichkeit",
+        "classes": {
+            "title": "Präsenzunterricht",
+            "description": "Begib dich auf ein sprachliches Abenteuer mit unserem intensiven Kurs, der dem Unterrichten gewidmet ist. Dieser Kurs bietet einen umfassenden Ansatz für den Sprachunterricht. Egal, ob Sie ein erfahrener Pädagoge oder ein Neuling auf dem Gebiet sind, begleiten Sie uns, während wir die Schnittstelle von Sprache und Kultur erkunden."
+        },
+        "online": {
+            "title": "Online",
+            "description": "Treten Sie ein in das virtuelle Klassenzimmer und erkunden Sie die dynamische Welt des Unterrichtens mit unserem Online-Kurs. Durch interaktive Module, Live-Sitzungen und multimediale Ressourcen werden die Teilnehmer Einblicke in die einzigartigen Herausforderungen und Chancen des Lernens erhalten. Schließen Sie sich unserer virtuellen Gemeinschaft von Pädagogen an und begeben Sie sich auf eine Entdeckungsreise."
+        }
+    },
+    "contact": {
+        "title": "KONTAKTIEREN SIE UNS",
+        "form": {
+            "title": "Senden Sie uns eine Nachricht",
+            "name": "Name und Nachname",
+            "phone": "Telefonnummer",
+            "courses": {
+                "info": "Kursinformationen"
+            },
+            "message": "Nachricht",
+            "send": "SENDEN"
+        },
+        "map": {
+            "title": "Wo Sie uns finden"
+        }
+    },
+    "about": {
+        "title": "ÜBER UNS",
+        "subtitle": "Unser Ziel",
+        "description": "In unserem Institut bieten wir ansprechende Kurse und eine unterstützende Umgebung, um den Schülern zu helfen, selbstbewusste Englischsprecher zu werden. Unsere erfahrenen Lehrer verwenden innovative Methoden, um alle Sprachfähigkeiten zu unterrichten. Ob persönlich oder online, wir stellen Ressourcen und Möglichkeiten zur Verfügung, um den Erfolg der Schüler zu gewährleisten.",
+        "qualities": {
+            "first": {
+                "title": "Umfassend",
+                "description": "Ein erstklassiges Institut bietet einen gründlichen Lehrplan, der Grammatik, Wortschatz, Sprechen, Hören, Lesen und Schreiben abdeckt. Es ist gut strukturiert, flexibel und an Lernende aller Kompetenzstufen angepasst."
+            },
+            "second": {
+                "title": "Erfahrung",
+                "description": "Ein großartiges Institut verfügt über erfahrene und qualifizierte Lehrer, die nicht nur kompetent in der englischen Sprache, sondern auch in Lehrmethoden und -techniken sind. Sie sind leidenschaftlich daran interessiert, den Schülern zu helfen, ihre Sprachziele zu erreichen."
+            },
+            "third": {
+                "title": "Unterstützend",
+                "description": "Eine unterstützende Lernumgebung ist für das Sprachenlernen unerlässlich, mit Ressourcen wie Multimedia und persönlicher Unterstützung. Persönliche Aufmerksamkeit, Feedback und Übungsmöglichkeiten sollten leicht verfügbar sein, um das Lernen zu verbessern."
+            }
+        }
+    },
+    "footer": {
+        "copyright": "© 2024 America Institute Copyright - Alle Rechte vorbehalten."
+    }
+}

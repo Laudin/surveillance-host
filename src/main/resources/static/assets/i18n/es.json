@@ -1,0 +1,72 @@
+{
+    "nav": {
+        "classes": "Clases",
+        "modality": "Modalidad",
+        "contact": "Contacto",
+        "about": "Sobre Nosotros",
+        "button": "Contáctanos"
+    },
+    "banner": {
+        "welcome": "Bienvenido a",
+        "subtitle": "Mejorando tu futuro",
+        "body": "En America Institute, estamos comprometidos a brindar una experiencia de aprendizaje completa y atractiva para nuestros estudiantes. Nuestro cuerpo docente está dedicado a ayudar a nuestros estudiantes a alcanzar su máximo potencial a través de estándares académicos e instrucción personalizada.",
+        "button": "EMPEZAR"
+    },
+    "classes": {
+        "title": "CLASES",
+        "subtitle": "Para todas las edades",
+        "kids": "Actividades de aprendizaje para que empiecen a desarrollar su comprensión y dialecto del nuevo idioma. Con libros interactivos y juegos creativos para hacer del aprendizaje una experiencia emocionante. Nuestro enfoque garantiza que cada niño disfrute del proceso de aprendizaje mientras desarrolla habilidades lingüísticas fundamentales.",
+        "teens": "Desarrollo de habilidades lingüísticas, como también el enriquecimiento del vocabulario y la comprensión cultural. Todas las herramientas necesarias para poder participar activamente en conversaciones fluidas en el idioma.",
+        "adults": "Enfoque innovador para el aprendizaje de idiomas en nuestro curso de idiomas para Adultos. Nuestra metodología dinámica combina ejercicios de aprendizaje diseñadas para desarrollar tanto la comprensión como el dominio del nuevo idioma."
+    },
+    "modality": {
+        "title": "MODALIDADES",
+        "subtitle": "Para tu conveniencia",
+        "classes": {
+            "title": "Presencial",
+            "description": "Embárcate en una aventura lingüística con nuestra clase inmersiva dedicada a enseñar. Este curso ofrece un enfoque completo para la instrucción del idioma. Ya seas un educador experimentado o un recién llegado al campo, únete a nosotros mientras navegamos por la intersección del idioma y la cultura."
+        },
+        "online": {
+            "title": "Online",
+            "description": "Ingresa al aula virtual y explora el mundo dinámico de la enseñanza con nuestro curso online. A través de módulos interactivos, sesiones en vivo y recursos multimedia, los participantes obtendrán una visión única de los desafíos y oportunidades de aprendizaje. Únete a nuestra comunidad virtual de educadores y emprende un viaje de descubrimiento."
+        }
+    },
+    "contact": {
+        "title": "CONTÁCTANOS",
+        "form": {
+            "title": "Envíanos un mensaje",
+            "name": "Nombre y apellido",
+            "phone": "Número de teléfono",
+            "courses": {
+                "info": "Información de cursos"
+            },
+            "message": "Mensaje",
+            "send": "ENVIAR"
+        },
+        "map": {
+            "title": "Dónde encontrarnos"
+        }
+    },
+    "about": {
+        "title": "SOBRE NOSOTROS",
+        "subtitle": "Nuestro objetivo",
+        "description": "En nuestro instituto ofrecemos clases atractivas y un ambiente de apoyo para ayudar a los estudiantes a convertirse en hablantes de de un nuevo idioma seguros. Nuestros instructores experimentados utilizan métodos innovadores para enseñar todas las habilidades lingüísticas. Ya sea en persona u online, proporcionamos recursos y oportunidades de práctica para garantizar el éxito del estudiante.",
+        "qualities": {
+            "first": {
+                "title": "Comprensible",
+                "description": "Un instituto de primera categoría proporciona un plan de estudios completo que cubre gramática, vocabulario, expresión oral, comprensión auditiva, lectura y escritura. Es bien estructurado, flexible y adaptado a estudiantes de todos los niveles."
+            },
+            "second": {
+                "title": "Experiencia",
+                "description": "Un excelente instituto cuenta con instructores experimentados y calificados que no solo son proficientes en el idioma, sino también en metodologías y técnicas de enseñanza. Estos instructores deben ser apasionados por la enseñanza y estar dedicados a ayudar a los estudiantes a alcanzar sus objetivos de aprendizaje del idioma."
+            },
+            "third": {
+                "title": "Apoyo",
+                "description": "Un ambiente de aprendizaje de apoyo es esencial para fomentar la adquisición del idioma y fomentar la participación estudiantil. Además, la atención personalizada, la retroalimentación constructiva y las oportunidades de práctica e interacción deben estar fácilmente disponibles para los estudiantes para mejorar su experiencia de aprendizaje."
+            }
+        }
+    },
+    "footer": {
+        "copyright": "© 2024 America Institute Copyright - Todos los derechos reservados."
+    }
+}
